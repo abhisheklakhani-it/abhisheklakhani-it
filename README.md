@@ -4,35 +4,20 @@ Welcome to my personal portfolio website! You can access it [here](https://abhis
 
 ## Professional Summary
 
-Dedicated Frontend Developer with nearly 2 years of professional experience in building responsive and user-friendly web applications using React.js, Redux, and TailwindCSS. Holds a Bachelor’s degree in Computer Science Engineering and is currently pursuing a Master’s in Automotive Software Engineering at Technische Universität Chemnitz. Demonstrates strong problem-solving abilities, effective communication, and a robust work ethic. Proven track record of collaborating with cross-functional teams and contributing to the full software development lifecycle. Actively expanding skills into backend development with Node.js and Express.js to become a full-stack developer. Fluent in English and advancing German proficiency at B1 Level.
+Dedicated Frontend Developer with nearly 1.5 years of professional experience in building responsive and user-friendly web applications using React.js, Redux, and TailwindCSS. Holds a Frontend Developer with 1.5 years of experience building scalable web applications using React.js, Redux, and TailwindCSS. Currently pursuing a Master’s in Automotive Software Engineering at TU Chemnitz. Proficient in translating business needs into technical solutions and collaborating with cross-functional teams to deliver high-performance applications. Strong problem-solving skills, effective communication, and a proactive approach to learning.
 
 ## Portfolio Website
 
 - **Portfolio Website:** [My Website](https://abhisheklakhani-it.github.io/Portfolio/)
 
-## Professional Experience
-
-### Student Assistant (Frontend Development)
-**Technical University of Chemnitz**  
-*April 2023 – June 2024 | Chemnitz, Germany*
-
-- Supported frontend development for various university projects, focusing on creating responsive and user-friendly interfaces using React.js and TailwindCSS.
-- Collaborated with faculty and research teams to translate complex requirements into intuitive web applications, enhancing user experience and accessibility.
-- Participated in design discussions and provided input on UX/UI improvements to ensure cohesive interfaces.
-- Actively learning backend development to gain a comprehensive understanding of project architecture.
-
 ### Junior Frontend Developer
 **Wokontech IT Solution**  
 *November 2020 – March 2022 | Surat, India*
 
-- Developed and maintained responsive web applications using React.js, ensuring high performance and scalability across devices.
-- Collaborated closely with UX/UI designers to implement interactive interfaces, improving user engagement by 30%.
-- Utilized state management libraries such as Redux and Context API, resulting in a 25% reduction in development time.
-- Integrated RESTful APIs and optimized data fetching methods, enhancing performance and reducing load times by 20%.
-- Conducted thorough unit and integration testing using Jest and React Testing Library.
-- Participated in agile development processes, including sprint planning, daily stand-ups, and retrospectives, to deliver projects on time and within scope.
-- Collaborated with backend developers to ensure seamless integration of frontend components with backend services.
-- Implemented best practices in coding standards, code reviews, and version control using Git and GitHub, improving overall code quality and team collaboration.
+-Developed and maintained responsive web applications using React.js, improving user engagement by 30% and reducing loading times by 20% through optimized data-fetching strategies and API integration.
+-Implemented Redux for state management, streamlining code complexity and reducing development time by 25%, leading to faster project deliveries.
+-Conducted unit and integration testing with Jest and React Testing Library, ensuring 95% bug-free deployments and contributing to high-quality releases.
+-Collaborated with backend developers and UX/UI designers in an agile environment, ensuring seamless integration and delivering projects on time within scope.
 
 ## Education
 
