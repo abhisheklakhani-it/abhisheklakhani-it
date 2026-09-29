@@ -1,115 +1,187 @@
+# Hi there, I'm Abhishek Lakhani 👋
 
-# Hi there, I'm Abhishek Lakhani! 👋
+### AI / ML Engineer | LLMs, RAG & Machine Learning Systems
 
-### Applied AI Engineer · NLP & LLM Systems
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/abhisheklakhani-it)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=githubpages&logoColor=white)](https://abhisheklakhani-it.github.io/Abhishek-Lakhani/)
-
----
-
-## 🧑‍💻 About Me
-
-I'm an Applied AI Engineer focused on **NLP and LLM systems**, currently pursuing a **Master's in Automotive Software Engineering** at **TU Chemnitz**, Germany. I enjoy turning language models into practical, production-ready tools, from prompt design and RAG pipelines to APIs and optimized deployment.
-
-- 🧠 **Specializations**: LLMs, Prompt Engineering, RAG, Text Classification, Computer Vision
-- 🔬 **Research**: Federated learning and privacy-focused ML pipelines
-- ⚙️ **Engineering**: Clean, modular Python with reproducible experiment tracking
-- 🎯 **Open to**: Full-time roles, working student positions, internships & thesis opportunities
-- 🇩🇪 **Based in Germany**: No visa sponsorship required
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-lakhani-4896271a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/abhisheklakhani-it">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://abhisheklakhani-it.github.io/Abhishek-Lakhani/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 👨‍💻 About Me
 
-### Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+I'm an **AI / ML Engineer** focused on building practical machine-learning and LLM applications — especially **RAG systems, information retrieval, NLP, evaluation, and production-oriented Python services**.
 
-### NLP & AI:
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-blueviolet?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-orange?style=flat-square)
-![TF-IDF](https://img.shields.io/badge/-TF--IDF-lightgrey?style=flat-square)
+I'm currently completing my **M.Sc. in Automotive Software Engineering at TU Chemnitz, Germany**, with a background spanning machine learning, computer vision, backend development, and privacy-aware ML research.
 
-### Machine Learning:
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+I like working where **ML research meets software engineering**: measurable experiments, reproducible pipelines, clean APIs, testing, containerization, and systems that can actually be used.
 
-### Backend & APIs:
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-02569B?style=flat-square)
-
-### MLOps, Cloud & Automation:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/-ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![CVAT](https://img.shields.io/badge/-CVAT-lightgrey?style=flat-square)
+- 🧠 **Focus:** LLMs, RAG, information retrieval, NLP, deep learning
+- 🔎 **Retrieval:** TF-IDF, BM25, dense embeddings, FAISS, hybrid search
+- 🧪 **ML engineering:** evaluation, experiment design, metrics, statistical testing
+- ⚙️ **Backend:** Python, FastAPI, REST APIs, Docker
+- 🔐 **Research:** privacy-preserving / decentralized machine learning
+- 🚗 **Domain:** Automotive Software Engineering
+- 💼 **Open to:** AI/ML Engineer, Applied AI, RAG/LLM, ML Engineer, Data/AI internships, working-student and thesis opportunities
+- 📍 **Germany**
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### 📝 LinkedIn Post Generation
-An NLP system built with LLMs and LangChain that uses structured prompting to generate LinkedIn posts, speeding up content creation by roughly 40%.
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=flat-square)
+
+### Backend / Data / MLOps
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Web / Cloud
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 [RAG DocQA](https://github.com/abhisheklakhani-it/rag-docqa)
+
+**Production-style document question answering system with hybrid retrieval**
+
+- FastAPI service with **BM25 + dense vector + TF-IDF retrieval**
+- **BGE-small / FAISS** semantic retrieval
+- PDF, Markdown and text ingestion with **OCR for scanned PDFs**
+- Streaming LLM responses through **Server-Sent Events**
+- Retrieval evaluation with **Recall@k, MRR and nDCG@10**
+- Dockerized with a multi-stage build
+- **73 automated tests** covering retrieval, streaming, OCR, APIs and evaluation
+
+### 📊 [Retrieval Eval Bench](https://github.com/abhisheklakhani-it/retrieval-eval-bench)
+
+**Benchmarking retrieval strategies for RAG systems**
+
+- Compares **TF-IDF, BM25, dense embeddings and hybrid retrieval**
+- Evaluated on the **SciFact / BEIR** dataset
+- Separate train/test evaluation for parameter tuning
+- Measures **Recall@1/5/10, MRR@10 and nDCG@10**
+- Includes **paired randomization tests** and bootstrap confidence intervals
+- Examines where lexical, semantic and hybrid retrieval succeed or fail
+
+### ✍️ [LinkedIn Post Generator](https://github.com/abhisheklakhani-it/linkedin-post-generator)
+
+**LLM-powered content generation application**
+
+- Built with **LangChain, Streamlit and Pydantic**
+- Few-shot example selection based on tone, language and length
+- Structured JSON output with validation
+- Grounding checks for unsupported numbers
+- **English / German** output with configurable LLM providers
+- **34 automated tests**
 
 ### 🤖 [ML Project](https://github.com/abhisheklakhani-it/mlproject)
-An end-to-end machine learning project covering data preparation, model training, and evaluation in Jupyter.
 
-### 💰 [Budget Tracker](https://github.com/abhisheklakhani-it/budget-tracker) · 🌦️ [Weather App](https://github.com/abhisheklakhani-it/WeatherApp) · ✅ [To-Do List](https://github.com/abhisheklakhani-it/todo_list)
-Python applications for personal finance tracking, live weather lookup, and task management.
+End-to-end machine-learning project covering data preparation, model training and evaluation.
+
+### 🐦 [Bird Species Classifier](https://github.com/abhisheklakhani-it/bird_species_classifier)
+
+Computer-vision classification project focused on image-based machine learning.
+
+### 💳 [Spendly](https://github.com/abhisheklakhani-it/spendly)
+
+Personal-finance application focused on expense tracking and budgeting.
+
+### 🌐 [Portfolio](https://github.com/abhisheklakhani-it/Abhishek-Lakhani)
+
+Current portfolio built with **React, TypeScript, Vite, Tailwind CSS, Framer Motion and Three.js**, with GitHub-project integration and automated GitHub Pages deployment.
 
 ---
 
-## 🧑‍💼 Experience
+## 🔬 Research & Engineering Interests
 
-**Machine Learning Intern**  
-*Technische Universität Chemnitz – Jun 2025 to Jan 2026*  
-🔐 Designed a privacy-focused image classification pipeline in TensorFlow, running federated learning experiments across decentralized Solid POD data sources  
-🧩 Built modular Python components (structured logging, custom exceptions, CSV-based result tracking) for reproducible experiments
+- **Retrieval-Augmented Generation (RAG)**
+- **Information Retrieval & Search**
+- **LLM application engineering**
+- **NLP & text classification**
+- **Computer Vision**
+- **Evaluation & benchmarking**
+- **Privacy-preserving / decentralized ML**
+- **MLOps and reproducible ML systems**
+- **AI applications for automotive and intelligent systems**
 
-**Software Development Intern**  
-*Wokontech IT Solution – Oct 2021 to Mar 2022*  
-🎯 Built and trained object detection pipelines on 5K+ images, improving robustness through data curation  
-🏷️ Evaluated models with standard metrics and managed annotation workflows in CVAT
+---
 
-**Backend Development Intern**  
-*White Orange Software – Dec 2020 to May 2021*  
-🛠️ Built and maintained backend features in Core PHP and tuned MySQL queries for better performance  
-📄 Handled code reviews and documentation with a multidisciplinary team
+## 💼 Experience
+
+### Machine Learning Intern — TU Chemnitz
+
+Worked on privacy-focused machine learning experiments involving **decentralized data sources / Solid Pods**, image classification and reproducible Python pipelines.
+
+### Software Development Intern — Wokontech IT Solution
+
+Worked on computer-vision / object-detection workflows, dataset preparation and model evaluation.
+
+### Backend Development Intern — White Orange Software
+
+Worked on backend development with **Core PHP and MySQL**, including implementation, query optimisation and documentation.
 
 ---
 
 ## 🎓 Education
 
 **M.Sc. Automotive Software Engineering**  
-Technische Universität Chemnitz – *2022–Present*
+Technische Universität Chemnitz, Germany · 2022 – Present
 
 **B.E. Computer Science Engineering**  
-Gujarat Technological University – *2017–2021*
+Gujarat Technological University, India · 2017 – 2021
 
 ---
 
-## 🌍 Languages
+## 🌐 Portfolio & Contact
 
-🇬🇧 English · 🇩🇪 German
+<p>
+  <a href="https://abhisheklakhani-it.github.io/Abhishek-Lakhani/">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/abhishek-lakhani-4896271a6/">💼 LinkedIn</a> ·
+  <a href="mailto:lakhaniabhi.it@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-## 📬 Let's Connect
+## 📌 Current Direction
 
-📍 Germany  
-📧 lakhaniabhi.it@gmail.com
+I'm currently focused on **AI engineering roles involving LLMs, RAG, information retrieval, machine learning and production-oriented Python systems**.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/abhisheklakhani-it)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-9cf?style=for-the-badge&logo=githubpages&logoColor=black)](https://abhisheklakhani-it.github.io/Abhishek-Lakhani/)
+I especially enjoy projects where the goal is not only to build a model, but to **measure it, test it, deploy it and understand its real-world behaviour**.
