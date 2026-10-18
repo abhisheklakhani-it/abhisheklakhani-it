@@ -14,7 +14,7 @@
   </a>
 </p>
 
-I build NLP and LLM systems in Python and **measure them before I trust them**: held-out test sets, standard metrics (nDCG, MRR, F1) and significance tests, then a tested FastAPI service in Docker. Every project below has real numbers in its README, automated tests that run without API keys, and an honest "limitations" section.
+I build NLP and LLM systems in Python and **measure them before I trust them**: held-out test sets, standard metrics (nDCG, MRR, F1) and significance tests, then a tested FastAPI service in Docker. Every public project below has real numbers in its README, automated tests that run without API keys, and an honest "limitations" section.
 
 - 🎓 M.Sc. Automotive Software Engineering, TU Chemnitz (master's thesis in preparation: real-time LiDAR health monitoring)
 - 🔬 Machine Learning Intern at TU Chemnitz (federated learning across Solid Pods, TensorFlow)
@@ -27,6 +27,7 @@ I build NLP and LLM systems in Python and **measure them before I trust them**: 
 
 | Project | What it does | Result |
 |:--|:--|:--|
+| 📈 [**SmartVisual**](https://www.smartvisual.eu) · *live product, code private* | Upload CSV/Excel, ask in English or German, get KPIs, 18 chart types, maps and short insights. The LLM only interprets the question; every number is computed in code. React, TypeScript, Supabase, Cloudflare Workers | 22-question eval on 3 datasets in CI, **every value within 0.01** of independent answers · public beta |
 | 🔎 [**RAG Document QA**](https://github.com/abhisheklakhani-it/rag-docqa) | Upload PDFs (also scanned, via OCR), ask questions, get cited answers streamed over SSE. FastAPI, hybrid BM25 + dense retrieval, multi-stage Docker | nDCG@10 **0.728** vs 0.567 for TF-IDF · rejects 87% of off-topic questions · 73 tests |
 | 🧭 [**Semantic Search API**](https://github.com/abhisheklakhani-it/semantic-search-api) | Production-style search API: hybrid dense + sparse BM25 in **Qdrant**, optional cross-encoder reranking, filters, pagination, Docker Compose | nDCG@10 **0.737** (dense alone 0.715) · reranker benchmarked and kept off · 33 tests |
 | ⚡ [**ONNX Inference Optimization**](https://github.com/abhisheklakhani-it/onnx-inference-optimization) | Fine-tuned German DistilBERT exported to ONNX, fused and int8-quantized, served by FastAPI | **1.46×** PyTorch throughput · **4×** smaller · −0.3 pt accuracy · 147 MB image |
@@ -49,6 +50,8 @@ I build NLP and LLM systems in Python and **measure them before I trust them**: 
 **ML:** PyTorch · TensorFlow · scikit-learn · pandas · NumPy · evaluation (nDCG, MRR, recall@k, F1, significance tests)
 
 **Backend & MLOps:** FastAPI · Pydantic · Docker / Compose · ONNX Runtime · quantization · pytest · GitHub Actions · SQLAlchemy · PostgreSQL · Streamlit · n8n
+
+**Web & deployment:** React · Next.js · TypeScript · Supabase · Prisma · Playwright · Cloudflare Workers · Vercel · Render
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
